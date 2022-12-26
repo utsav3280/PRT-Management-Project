@@ -1,0 +1,25 @@
+{
+  "name": "prt-management-project",
+  "version": "1.0.0",
+  "description": "prt-assignment-2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utsav3280/PRT-Management-Project.git"
+  },
+  "author": "utsav-singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/utsav3280/PRT-Management-Project/issues"
+  },
+  "homepage": "https://github.com/utsav3280/PRT-Management-Project#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.1",
+    "nodemon": "^2.0.20"
+  }
+}
